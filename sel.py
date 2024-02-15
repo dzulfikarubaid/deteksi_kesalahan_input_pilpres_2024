@@ -8,9 +8,7 @@ def scrape_data(url):
     
         options = Options()
         options.add_argument("--headless")
-        options.add_experimental_option("excludeSwitches", ["enable-logging"])
-
-       
+        
         driver = webdriver.Chrome(options=options)
         driver.get(url)
         sleep(3)
