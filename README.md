@@ -1,1 +1,7 @@
-# deteksi_kesalahan_input_pilpres_2024
+# Deteksi Kesalahan Input Pilpres 2024 di Website KPU
+
+Melakukan instalasi library
+pip install -r requirements.txt
+
+Run program
+python indonesia.py
