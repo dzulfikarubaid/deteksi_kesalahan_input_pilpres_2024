@@ -11,8 +11,10 @@ pip install -r requirements.txt
 ```
 ## Run program
 untuk seluruh indonesia
-#### python indonesia.py
-untuk provinsi tertentu
+```
+python indonesia.py
+```
+untuk provinsi tertentu,
 contoh:
 ```
 python jatim.py
